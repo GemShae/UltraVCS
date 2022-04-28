@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TOC Ultra VCS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TOC_Ultra_VCS_jar</output-path>
+    <root id="archive" name="TOC Ultra VCS.jar">
+      <element id="module-output" name="TOC Ultra VCS" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../vlcj-3.0.1/vlcj-3.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../jna-5.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../jlayer-1.0.1-1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
